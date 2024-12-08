@@ -60,11 +60,6 @@
 			<artifactId>spring-dotenv</artifactId>
 			<version>4.0.0</version>
 		</dependency>
-		<dependency>
-			<groupId>spring.profiles.active=dotenv
-			</groupId>
-			<artifactId></artifactId>
-		</dependency>
 	</dependencies>
 
 	<build>
