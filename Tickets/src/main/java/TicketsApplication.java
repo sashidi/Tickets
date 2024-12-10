@@ -1,5 +1,3 @@
-package ticket_booking_system.Tickets;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -9,5 +7,4 @@ public class TicketsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TicketsApplication.class, args);
 	}
-
 }
